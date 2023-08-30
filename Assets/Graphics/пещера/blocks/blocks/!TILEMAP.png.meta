@@ -1,0 +1,3308 @@
+fileFormatVersion: 2
+guid: 6bee010390d5c274c9466a8624e01c80
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!TILEMAP_0'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7a479ddf898994eaa836d44860020e
+      internalID: 2000521201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_1'
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1920
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab9d992e214ac54aa70e189aa3d6192
+      internalID: -390542639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_2'
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1920
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88d1679aa3121347a81585abd45da4e
+      internalID: 1385282974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_3'
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1920
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a59424e78d8a294a882f6b196542ba4
+      internalID: 1126396062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_4'
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1920
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1ff76e8b5b1f8468745327cb744d50
+      internalID: 1915514552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_5'
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1920
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee245ac8c5f583249bd094d3313cda51
+      internalID: -1642316116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_6'
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1920
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baebc54f76c811f4d95ae778c853ce7d
+      internalID: 123731133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_7'
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1920
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecbc2554ba574a4b816e9f6cfd3c021
+      internalID: -316185241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_8'
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1920
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca17e4815f67d848aa28f2de37a3ca5
+      internalID: 1509264463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_9'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6048ff5adc226e44b9b1efc72491e9eb
+      internalID: 580402638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_10'
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1792
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e9bc72c0035d24d9e26938d20535e4
+      internalID: 1049863903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_11'
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1792
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60869695966010343802c590b8794c1f
+      internalID: 1472646163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_12'
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1792
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faed05bba7fb47848b5dcfff30df1871
+      internalID: -1584494630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_13'
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1792
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e30bb4edf45f04ca516ad5d7163da4
+      internalID: -528829652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_14'
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1792
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e03c83695b8d14f83b081b2d769e7e
+      internalID: 1519634915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_15'
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1792
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c3daa232e0d5747b83b9af6ed7ff2f
+      internalID: -198330490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_16'
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1792
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18558f5c17dcfe418ee48bc051e124e
+      internalID: -1477254937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_17'
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1792
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b766ffdd003110843b76cf8beb5d5a18
+      internalID: -1191033026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_18'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4559f8cb336d46744b1885d9dc00777b
+      internalID: -2025113218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_19'
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1664
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4603d7b3729a2ce4fa202deee0b66288
+      internalID: -978204842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_20'
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1664
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6898b1ec425ad7d4a9f0bdd15135e5bc
+      internalID: -1024499443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_21'
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1664
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c145843f59f95408336918e8df132a
+      internalID: 548974108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_22'
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1664
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d24965c6c9ec87479fdf768c15bb850
+      internalID: -572950103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_23'
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1664
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d2d8dffaf61c140a83debeafeb345d
+      internalID: 1280077728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_24'
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1664
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fbb360b2e87604683dcc91b9558212
+      internalID: 1440558144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_25'
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1664
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bdaa3a7a8585d41b9c17322454d651
+      internalID: -162619084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_26'
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1664
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b081c741e798fc3469873975602b3b6f
+      internalID: 1337460265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_27'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c459e3c0e34f78249895614ba305b76d
+      internalID: -1030625811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_28'
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1536
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d385033b49fd448b3476186b5f680d
+      internalID: -1621120671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_29'
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1536
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d176af5b97548834ca5cb5504d65ef04
+      internalID: 1438487528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_30'
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1536
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcb92b96e396164291c96d14588f368
+      internalID: 1128673079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_31'
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1536
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65b4b7d05682664bb9be7c8860c4722
+      internalID: -2071583595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_32'
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1536
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3789541cc5712ab4fb87298ad702bf59
+      internalID: 1798986381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_33'
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1536
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b542807b4f1a4574ebc9b965d480c560
+      internalID: -1622524848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_34'
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1536
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286bdf39aa61a7e4281bf7e009358db1
+      internalID: 1264502490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_35'
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1536
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a2490f83a1c5843abef5952225560a
+      internalID: 1833757685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_36'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f081c429cb42c24f8178595dacd9501
+      internalID: 2092084697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_37'
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1408
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740b7a4682c09b54fa1b1aca0ffa95a2
+      internalID: -498210136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_38'
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1408
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece8d15e4696e6647b66e12c8ab31bbb
+      internalID: -1268300143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_39'
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1408
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d172684fcba9475488082b5ad3a73b5a
+      internalID: 1072427592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_40'
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1408
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f7a077c6be31b43884f47f5893c552
+      internalID: -829259712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_41'
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1408
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89c81d6ef9f09642b557def9b1e16ae
+      internalID: -999995716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_42'
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1408
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a10e3c2849db1d4b8f9d53df6fd7b86
+      internalID: -670481459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_43'
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1408
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c132f8e83c324be41b8c4ec0a5b7f8ac
+      internalID: 1540104944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_44'
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1408
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d462fbaec72bc64184eae71bf6ce86e
+      internalID: -946829466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_45'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12b5c489a1117f4d9457ed804d8c2da
+      internalID: 688143994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_46'
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1280
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43967b941c1054b44bbf7635a1197a72
+      internalID: 1173372555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_47'
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1280
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8489cd9a88c1b64592c18a463e0fd09
+      internalID: -868492817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_48'
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1280
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13142cdeeca9dee4cbfa4ef273cb8530
+      internalID: -1530909928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_49'
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1280
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740e4944b297c1449bd31b9939cde0ba
+      internalID: 583525158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_50'
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1280
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8765a07f1b12e94fa3b7cc46ec6e47a
+      internalID: 1919519547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_51'
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1280
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b91505cfdb20454ca9d7d3f4b4b8654
+      internalID: -243032711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_52'
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1280
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bd17cc7c3d3e64b94a35eaf8a9e665
+      internalID: -537954285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_53'
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1280
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02c692fcd262b648851abb49f0ca0cf
+      internalID: -1356961521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_54'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdddf04d834410b458a81caa70661cc3
+      internalID: -513225499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_55'
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1152
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59e77e472ce9cd4cb259e2868ade0d1
+      internalID: -479520593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_56'
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1152
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8ad1c58b6e62d4eaec91073797c55a
+      internalID: 1797355784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_57'
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1152
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda6a7d204e80ef4186cb6cd586296d7
+      internalID: 1742873519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_58'
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1152
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a0a25ca933a674d9a2a2723274fd14
+      internalID: -884073010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_59'
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1152
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36de534792bca04a855e520c8df7776
+      internalID: 1596505930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_60'
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1152
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035966d690e34554c80080aa12367374
+      internalID: 1270843572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_61'
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1152
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a957fbd9b97e3499b6624e90fe7005
+      internalID: -2021052495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_62'
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1152
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b9db63c97b49f468a2659ad6502047
+      internalID: -2029557030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_63'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6d2b4d310654d4fb0452aa086a6ea3
+      internalID: 615532068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_64'
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1024
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca883af8c299e5947a6b6ea5ed6c2d93
+      internalID: 232083925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_65'
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1024
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f5da658571b78418e765921f705e05
+      internalID: 537478158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_66'
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1024
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a666ea7cf15324fae65141edd936fd
+      internalID: -1299496475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_67'
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1024
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a480a008cddecf542b3d327233a43897
+      internalID: 1536211095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_68'
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1024
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edcf172e73d2cc46aba31a9c922161e
+      internalID: -988707991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_69'
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1024
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549430da3c40b1f4088192964ebfec5c
+      internalID: -664684426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_70'
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1024
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a335798d97515e540babeceafaebc014
+      internalID: 302032156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_71'
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1024
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7545e77429ee03469779ab8ae4b6bd3
+      internalID: -1317525409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_72'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76ecdfa0a0b5764082dbbde96754aba
+      internalID: 1033988642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_73'
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 896
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb2dfc3f784ae24093a0a5f8b2991cc
+      internalID: -1531017128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_74'
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 896
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2427814f84395f3419b074c701144d83
+      internalID: 211374767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_75'
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 896
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6a38c55fd706345bcb1428662bb1ef
+      internalID: 1546250491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_76'
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 896
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82160f2d9dedb6643852a40337a34b0c
+      internalID: -47874187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_77'
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 896
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69002611d5b03e489f00c200f38596a
+      internalID: -163014163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_78'
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 896
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442da1df470bc8043b60573a18c655a0
+      internalID: -1312289258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_79'
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 896
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf19c56e6b96404bb497cde2a2229f5
+      internalID: 1399568299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_80'
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 896
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bbc6c0999ea8a468660a756047524c
+      internalID: -974393375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_81'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89020a46965b9a4eb31e647aeeed56f
+      internalID: -1360564535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_82'
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 768
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f2c2050dd16844a9bad93760130aa3
+      internalID: 1821229962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_83'
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 768
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a74ab62ea2c9084581d6273436d781d
+      internalID: -1050746844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_84'
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 768
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cd30e1294416143a393349c96e92ba
+      internalID: 423039448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_85'
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 768
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd81a9440fa20747b6a7b15e4bdf21f
+      internalID: 1220860541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_86'
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 768
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be6c243c409e2745b1276b3a8c5fa46
+      internalID: -1126677336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_87'
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 768
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ac1b50115857645b1f40cb74b76c6b
+      internalID: 372955801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_88'
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 768
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f85c7340c032284ab3b6fde2ef99b6d
+      internalID: -1979330203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_89'
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 768
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aefbc6507f14ca44af3048b91cd419c
+      internalID: -378847272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_90'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7deeb72c0e43445ab5f4af2b8a2b52
+      internalID: -871302507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_91'
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 640
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a62701f7ace6a4d9ef7192e5f29baf
+      internalID: -1110825756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_92'
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 640
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c65e1936658cd4aabaf8a885262884
+      internalID: -304811159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_93'
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 640
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3022cc9f8cb36240a1e6d93baac654f
+      internalID: 312999703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_94'
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 640
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08676ae2434696a42a3a4f89445433ee
+      internalID: 572528266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_95'
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 640
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e897e358cfe7b042bda9a96e00afd9d
+      internalID: 1539083969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_96'
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 640
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da1023c2fffb9f41a159734247fd649
+      internalID: -785466875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_97'
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 640
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5a3296e8b3bd248a3e559033b8c14b
+      internalID: 1402502271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_98'
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 640
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7acfee1c17b7d419450b9b9e017d92
+      internalID: -50961693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_99'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01ec141d92c17c4c8dfa99d4287ee56
+      internalID: -668085917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_100'
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 512
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6754498daac2449b54c90d9160dd6b
+      internalID: 366476071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_101'
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 512
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60603505c5a83e0458628542e4602d00
+      internalID: 959115373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_102'
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 512
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d995eb4f4f85744bacbe173f721d3a7
+      internalID: -870600021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_103'
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 512
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af3319295fb06c4c96df3e14093fab1
+      internalID: 1724144854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_104'
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 512
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2e46af38888b04aad788d4d353a100
+      internalID: -650413275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_105'
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 512
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e3666bf2de46f47a9ed6153d9ed274
+      internalID: 1677008060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_106'
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 512
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f9525a58c11334fa3408181bfbdb8c
+      internalID: -273238329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_107'
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 512
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77c4de20c3db284dacc7232e328f859
+      internalID: -67032571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_108'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecbce4c3c8ecf14d9446df3f84b36f9
+      internalID: -1034581162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_109'
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 384
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830395e4986c0b349a4dc4bb9931fcaf
+      internalID: 1836480061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_110'
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 384
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002b5fd2366504f439ea18896c5e6d88
+      internalID: 991914946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_111'
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 384
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612dac97162319449a2e026493b66041
+      internalID: -748791637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_112'
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 384
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bf9f8f72e55e949b6fd338d99cb623
+      internalID: 1154981384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_113'
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 384
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d591e822f2405f429bc1c38f743afa7
+      internalID: 409305876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_114'
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 384
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b57efe7c2ac02b43baa7cbe1019ffbc
+      internalID: -903364886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_115'
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 384
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50187c8f5163c8b4a8506a06448fb287
+      internalID: 483765170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_116'
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 384
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d126052d341af14bba9a6163c3b0852
+      internalID: -1711027565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_117'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1673bcb29c35e4eb1583ead20df9ed
+      internalID: -1858177676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_118'
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 256
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9390cd58cfe2d429b5d9866bf7443a
+      internalID: 1178798044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_119'
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 256
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb8e48593d192d4986d41f55268dc15
+      internalID: -545849412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_120'
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 256
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f5d7ffde78dcd4a9332a43a6deb51c
+      internalID: -865676034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_121'
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 256
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c6e1607fb95e2438e6b85724e0ce3f
+      internalID: -535029704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_122'
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 256
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83b57324cba8794eb0a482909f9182e
+      internalID: -924063183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_123'
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 256
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4421defd05516b74ba2079ab8f0bf4cf
+      internalID: 894889739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_124'
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 256
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45df062222c5de4f926d6f9d0d7ae0d
+      internalID: 10622087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_125'
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 256
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c29160823498446898be2ccdc402fb
+      internalID: 1601858169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_126'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0053a9b70ad6ee641837974cec51e83f
+      internalID: 1968730467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_127'
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 128
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe6f1bcdccc95e4082fde25ade37013
+      internalID: 1029349612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_128'
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 128
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4b2a668ed251f4994ffb035bc24859
+      internalID: -918354283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_129'
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 128
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7113ead000c4194089cb6bd167c5f41
+      internalID: -396130934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_130'
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 128
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7114cde0e9e88854d857b300c6f4d9db
+      internalID: -1268628512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_131'
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 128
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abfc7af70e56204b86f32b35c054e8f
+      internalID: -1087703472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_132'
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 128
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b09953c307a78943bd32bceec8394fb
+      internalID: 1460312384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_133'
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 128
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af0bb7bfae74d64c83d409c680a6bff
+      internalID: 1374750900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_134'
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 128
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6adeb2705c694842952a1a2869e1e73
+      internalID: -774923579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_135'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf226b48395081d43a5d42f06d500005
+      internalID: -1802911547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_136'
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4275b816c76564c8d57586af931685
+      internalID: 184773596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_137'
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d291abab676539468b0f9c79e9d4d14
+      internalID: 967643604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_138'
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09990219aa3248e4aab6cea25dc3c796
+      internalID: 2133879533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_139'
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae849ef2a3212443a965480e344fdd1
+      internalID: 959848778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_140'
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 0
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c00f5c6eaab724798ac3520f145d12
+      internalID: -954830468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_141'
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 0
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1ba49cf1bec764aa8741b95679c515
+      internalID: -1740981568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_142'
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 0
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f786f2d042d0d1d49a42360a7ec37a6f
+      internalID: -1900597699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!TILEMAP_143'
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 0
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed205de374c233e449bf6bc5829c44b6
+      internalID: -1391002643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      '!TILEMAP_0': 2000521201
+      '!TILEMAP_1': -390542639
+      '!TILEMAP_10': 1049863903
+      '!TILEMAP_100': 366476071
+      '!TILEMAP_101': 959115373
+      '!TILEMAP_102': -870600021
+      '!TILEMAP_103': 1724144854
+      '!TILEMAP_104': -650413275
+      '!TILEMAP_105': 1677008060
+      '!TILEMAP_106': -273238329
+      '!TILEMAP_107': -67032571
+      '!TILEMAP_108': -1034581162
+      '!TILEMAP_109': 1836480061
+      '!TILEMAP_11': 1472646163
+      '!TILEMAP_110': 991914946
+      '!TILEMAP_111': -748791637
+      '!TILEMAP_112': 1154981384
+      '!TILEMAP_113': 409305876
+      '!TILEMAP_114': -903364886
+      '!TILEMAP_115': 483765170
+      '!TILEMAP_116': -1711027565
+      '!TILEMAP_117': -1858177676
+      '!TILEMAP_118': 1178798044
+      '!TILEMAP_119': -545849412
+      '!TILEMAP_12': -1584494630
+      '!TILEMAP_120': -865676034
+      '!TILEMAP_121': -535029704
+      '!TILEMAP_122': -924063183
+      '!TILEMAP_123': 894889739
+      '!TILEMAP_124': 10622087
+      '!TILEMAP_125': 1601858169
+      '!TILEMAP_126': 1968730467
+      '!TILEMAP_127': 1029349612
+      '!TILEMAP_128': -918354283
+      '!TILEMAP_129': -396130934
+      '!TILEMAP_13': -528829652
+      '!TILEMAP_130': -1268628512
+      '!TILEMAP_131': -1087703472
+      '!TILEMAP_132': 1460312384
+      '!TILEMAP_133': 1374750900
+      '!TILEMAP_134': -774923579
+      '!TILEMAP_135': -1802911547
+      '!TILEMAP_136': 184773596
+      '!TILEMAP_137': 967643604
+      '!TILEMAP_138': 2133879533
+      '!TILEMAP_139': 959848778
+      '!TILEMAP_14': 1519634915
+      '!TILEMAP_140': -954830468
+      '!TILEMAP_141': -1740981568
+      '!TILEMAP_142': -1900597699
+      '!TILEMAP_143': -1391002643
+      '!TILEMAP_15': -198330490
+      '!TILEMAP_16': -1477254937
+      '!TILEMAP_17': -1191033026
+      '!TILEMAP_18': -2025113218
+      '!TILEMAP_19': -978204842
+      '!TILEMAP_2': 1385282974
+      '!TILEMAP_20': -1024499443
+      '!TILEMAP_21': 548974108
+      '!TILEMAP_22': -572950103
+      '!TILEMAP_23': 1280077728
+      '!TILEMAP_24': 1440558144
+      '!TILEMAP_25': -162619084
+      '!TILEMAP_26': 1337460265
+      '!TILEMAP_27': -1030625811
+      '!TILEMAP_28': -1621120671
+      '!TILEMAP_29': 1438487528
+      '!TILEMAP_3': 1126396062
+      '!TILEMAP_30': 1128673079
+      '!TILEMAP_31': -2071583595
+      '!TILEMAP_32': 1798986381
+      '!TILEMAP_33': -1622524848
+      '!TILEMAP_34': 1264502490
+      '!TILEMAP_35': 1833757685
+      '!TILEMAP_36': 2092084697
+      '!TILEMAP_37': -498210136
+      '!TILEMAP_38': -1268300143
+      '!TILEMAP_39': 1072427592
+      '!TILEMAP_4': 1915514552
+      '!TILEMAP_40': -829259712
+      '!TILEMAP_41': -999995716
+      '!TILEMAP_42': -670481459
+      '!TILEMAP_43': 1540104944
+      '!TILEMAP_44': -946829466
+      '!TILEMAP_45': 688143994
+      '!TILEMAP_46': 1173372555
+      '!TILEMAP_47': -868492817
+      '!TILEMAP_48': -1530909928
+      '!TILEMAP_49': 583525158
+      '!TILEMAP_5': -1642316116
+      '!TILEMAP_50': 1919519547
+      '!TILEMAP_51': -243032711
+      '!TILEMAP_52': -537954285
+      '!TILEMAP_53': -1356961521
+      '!TILEMAP_54': -513225499
+      '!TILEMAP_55': -479520593
+      '!TILEMAP_56': 1797355784
+      '!TILEMAP_57': 1742873519
+      '!TILEMAP_58': -884073010
+      '!TILEMAP_59': 1596505930
+      '!TILEMAP_6': 123731133
+      '!TILEMAP_60': 1270843572
+      '!TILEMAP_61': -2021052495
+      '!TILEMAP_62': -2029557030
+      '!TILEMAP_63': 615532068
+      '!TILEMAP_64': 232083925
+      '!TILEMAP_65': 537478158
+      '!TILEMAP_66': -1299496475
+      '!TILEMAP_67': 1536211095
+      '!TILEMAP_68': -988707991
+      '!TILEMAP_69': -664684426
+      '!TILEMAP_7': -316185241
+      '!TILEMAP_70': 302032156
+      '!TILEMAP_71': -1317525409
+      '!TILEMAP_72': 1033988642
+      '!TILEMAP_73': -1531017128
+      '!TILEMAP_74': 211374767
+      '!TILEMAP_75': 1546250491
+      '!TILEMAP_76': -47874187
+      '!TILEMAP_77': -163014163
+      '!TILEMAP_78': -1312289258
+      '!TILEMAP_79': 1399568299
+      '!TILEMAP_8': 1509264463
+      '!TILEMAP_80': -974393375
+      '!TILEMAP_81': -1360564535
+      '!TILEMAP_82': 1821229962
+      '!TILEMAP_83': -1050746844
+      '!TILEMAP_84': 423039448
+      '!TILEMAP_85': 1220860541
+      '!TILEMAP_86': -1126677336
+      '!TILEMAP_87': 372955801
+      '!TILEMAP_88': -1979330203
+      '!TILEMAP_89': -378847272
+      '!TILEMAP_9': 580402638
+      '!TILEMAP_90': -871302507
+      '!TILEMAP_91': -1110825756
+      '!TILEMAP_92': -304811159
+      '!TILEMAP_93': 312999703
+      '!TILEMAP_94': 572528266
+      '!TILEMAP_95': 1539083969
+      '!TILEMAP_96': -785466875
+      '!TILEMAP_97': 1402502271
+      '!TILEMAP_98': -50961693
+      '!TILEMAP_99': -668085917
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
