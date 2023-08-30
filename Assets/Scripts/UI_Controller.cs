@@ -5,7 +5,7 @@ using UnityEngine;
 public class UI_Controller : MonoBehaviour
 {
     [SerializeField] private GameObject _inventory;
-    // Start is called before the first frame update
+    
     void Start()
     {
         _inventory.SetActive(true);
